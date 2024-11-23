@@ -1,12 +1,12 @@
 {
-  "valid_users": [
+  "valid_keys": [
     {
       "username": "user1",
-      "key": "user_key_1"
+      "key": "key_1"
     },
     {
       "username": "user2",
-      "key": "user_key_2"
+      "key": "key_2"
     }
   ]
 }
