@@ -1,7 +1,12 @@
 {
-  "valid_keys": [
-    "user_key_1",
-    "user_key_2",
-    "user_key_3"
+  "valid_users": [
+    {
+      "username": "user1",
+      "key": "user_key_1"
+    },
+    {
+      "username": "user2",
+      "key": "user_key_2"
+    }
   ]
 }
